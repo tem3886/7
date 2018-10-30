@@ -1,3 +1,1 @@
-# 7
-<<<<<<< HEAD
-lakhsfkljhsdkl
+modify readme
